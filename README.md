@@ -9,3 +9,6 @@ The solution of the problem is based on the idea that the elements of the embedd
 Furthermore plan was that, let each cluster is labeled with keywords.
 
 Part of the solution is the source code written in python and all the outputs of the solver program as well.
+
+Original:
+https://www.kaggle.com/robertlakatos/covid-19-ordc-contextual-analysis-with-bert
